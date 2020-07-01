@@ -1,0 +1,10 @@
+#terminal {
+	overflow-x: hidden;
+	overflow-y: scroll;
+	width: 800px;
+  height: 600px;
+  padding: 5px;
+  border: solid 1px black;
+	background-color: black;
+	color: #36e959;
+}
